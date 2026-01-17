@@ -1,17 +1,12 @@
-<h1 align="center">Aman Harsh</h1>
-<h3 align="center">Software Engineer @ GreyOrange</h3>
-<h4 align="center">Full Stack Engineer • Distributed Systems • AI/Computer Vision</h4>
+<h1 align="center">Hi 👋, I'm Aman Harsh</h1>
+<h3 align="center">Full Stack Software Engineer • Distributed Systems • AI/Computer Vision</h3>
 
 ---
-<p> Hi, I'm Aman </p>  
-<p>If you're looking for someone who can take a product from idea → UI → backend → deployment, I’m the perfect fit for your team.
-I build clean, scalable systems, ship fast, and love solving real engineering problems end-to-end.
-</p>
 
-### Currently
-
-- Building **full stack projects** (React + FastAPI)
-- Working on **Computer Vision / AI** projects
+- I design and ship Frontend, Backend, and Cloud infrastructure End-to-End.
+- I'm currently working on Pawvision, Discover your pet personality. 
+- Know about my experience [Resume](https://drive.google.com/file/d/1O4KJhiTeVSEI-8JTkn-ML5tPvLQdIMMa/view?usp=sharing)
+- I love cats and coffee 😺
 
 ---
 
@@ -34,6 +29,7 @@ I build clean, scalable systems, ship fast, and love solving real engineering pr
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -41,6 +37,7 @@ I build clean, scalable systems, ship fast, and love solving real engineering pr
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -69,13 +66,3 @@ I build clean, scalable systems, ship fast, and love solving real engineering pr
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
-
----
-
-###  GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
-</p>
-
