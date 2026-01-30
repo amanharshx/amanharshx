@@ -4,8 +4,8 @@
 ---
 
 - I design and ship Frontend, Backend, and Cloud infrastructure End-to-End.
-- I'm currently working on Pawvision, Discover your pet personality. 
-- Know about my experience [Resume](https://drive.google.com/file/d/1O4KJhiTeVSEI-8JTkn-ML5tPvLQdIMMa/view?usp=sharing)
+- I'm currently making computer vision and vision AI applications.
+- How to reach out to me: <a href="mailto:contact@amanharsh.in"><u>contact@amanharsh.in</u></a>
 - I love cats and coffee 😺
 
 ---
@@ -13,7 +13,7 @@
 ###  Connect with Me
 
 <p>
-<a href="mailto:amanharshx@gmail.com" target="blank">
+<a href="mailto:contact@amanharsh.in" target="blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://linkedin.com/in/amanharshx" target="blank">
@@ -66,3 +66,9 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
+
+---
+
+### Support Me
+
+<a href="https://buymeacoffee.com/amanharshx"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
