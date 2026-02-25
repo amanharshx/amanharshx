@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aman Harsh</h1>
-<h3 align="center">Full Stack Software Engineer • Distributed Systems • AI/Computer Vision</h3>
+<h3 align="center">Full Stack Software Engineer building Vision AI Applications</h3>
 
 ---
 
-- I design and ship Frontend, Backend, and Cloud infrastructure End-to-End.
-- I'm currently making computer vision and vision AI applications.
-- How to reach out to me: <a href="mailto:contact@amanharsh.in"><u>contact@amanharsh.in</u></a>
+- I design and ship frontend, backend, and cloud infrastructure end-to-end.
+- I'm currently building applications powered by Computer Vision and Vision AI.
+- How to reach me: <a href="mailto:contact@amanharsh.in"><u>contact@amanharsh.in</u></a>
 - I love cats and coffee 😺
 
 ---
