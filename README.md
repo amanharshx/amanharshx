@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amanharshx&style=flat" alt="Profile Views" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Aman Harsh</h1>
 <h3 align="center">Full Stack Software Engineer building Vision AI Applications</h3>
 
