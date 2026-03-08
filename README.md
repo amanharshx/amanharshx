@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanharshx&style=flat" alt="Profile Views" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Aman Harsh</h1>
 <h3 align="center">Full Stack Software Engineer building Vision AI Applications</h3>
 
@@ -76,3 +72,7 @@
 ### Support Me
 
 <a href="https://buymeacoffee.com/amanharshx"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=amanharshx&style=flat)
