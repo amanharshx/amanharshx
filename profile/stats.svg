@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Aman Harsh's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 9, Total Commits  : 1484, Total PRs: 63, Total Issues: 16, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 9, Total Commits  : 1549, Total PRs: 63, Total Issues: 16, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 158.91019942153983;
+        stroke-dashoffset: 158.25049078378063;
       }
     }
   
