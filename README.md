@@ -37,6 +37,15 @@ Export and convert computer vision models to ONNX, TensorRT, CoreML, TFLite and 
 Convert NDJSON annotation exports to YOLO, COCO, Pascal VOC and more.
 </td>
 </tr>
+<tr>
+<td width="48" align="center" valign="middle">
+<span style="font-size:28px;">🤖</span>
+</td>
+<td valign="middle">
+<b><a href="https://github.com/amanharshx/ultralytics-mcp">ultralytics-mcp</a></b><br/>
+MCP server for Ultralytics Platform: projects, datasets, training, prediction, exports and more.
+</td>
+</tr>
 </table>
 
 [View more repositories →](https://github.com/amanharshx?tab=repositories)
@@ -48,7 +57,7 @@ Convert NDJSON annotation exports to YOLO, COCO, Pascal VOC and more.
 | Category | Stack |
 |---|---|
 | **Languages** | <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white" alt="Rust"/></a> <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python"/></a> <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white" alt="TypeScript"/></a> <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?logo=cplusplus&logoColor=white" alt="C++"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript"/></a> <a href="https://swift.org"><img src="https://img.shields.io/badge/Swift-F05138.svg?logo=swift&logoColor=white" alt="Swift"/></a> <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white" alt="Java"/></a> |
-| **Frontend** | <a href="https://react.dev"><img src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB" alt="React"/></a> <a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white" alt="Vite"/></a> <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/></a> |
+| **Frontend** | <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white" alt="Next.js"/></a> <a href="https://react.dev"><img src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB" alt="React"/></a> <a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white" alt="Vite"/></a> <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/></a> |
 | **Desktop** | <a href="https://tauri.app"><img src="https://img.shields.io/badge/Tauri-24C8DB.svg?logo=tauri&logoColor=white" alt="Tauri"/></a> <a href="https://www.electronjs.org"><img src="https://img.shields.io/badge/Electron-47848F.svg?logo=electron&logoColor=white" alt="Electron"/></a> |
 | **AI / Computer Vision** | <a href="https://www.ultralytics.com"><img src="https://img.shields.io/badge/Ultralytics_YOLO-042AFF.svg?logo=ultralytics&logoColor=white" alt="Ultralytics YOLO"/></a> <a href="https://roboflow.com"><img src="https://img.shields.io/badge/Roboflow_RF--DETR-6706CE.svg?logo=roboflow&logoColor=white" alt="Roboflow RF-DETR"/></a> <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white" alt="PyTorch"/></a> <a href="https://opencv.org"><img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white" alt="OpenCV"/></a> <a href="https://onnx.ai"><img src="https://img.shields.io/badge/ONNX-005CED.svg?logo=onnx&logoColor=white" alt="ONNX"/></a> |
 | **Tooling & DevOps** | <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white" alt="Git"/></a> <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" alt="Docker"/></a> <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=githubactions&logoColor=white" alt="GitHub Actions"/></a> <a href="https://brew.sh"><img src="https://img.shields.io/badge/Homebrew-FBB040.svg?logo=homebrew&logoColor=white" alt="Homebrew"/></a> |
