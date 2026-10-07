@@ -60,7 +60,7 @@ most of the fun stuff i make stays private, just for me. sometimes i open source
 <tr>
 <td>
 <b><a href="https://ezannotate.app">ezAnnotate</a></b><br/>
-ultralytics platform didn't have a way to delete a class back then, so i built this lol. the web version is free and exports YOLO. the desktop app is private and has way more stuff: advanced SAM, faster smart annotation and other tools.
+ultralytics platform didn't have a way to delete a class back then, so i built this lol. the web version is free. the desktop app is private and has way more stuff: advanced SAM, faster smart annotation and other tools.
 </td>
 </tr>
 <tr>
